@@ -1,0 +1,9 @@
+
+.aucnow{
+	display : flex;
+	width : 200px;
+}
+
+.aucnow count{
+	align-content : space-between;
+}
